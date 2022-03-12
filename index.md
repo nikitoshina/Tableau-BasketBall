@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Interactive BasketBall Dashboard
+
+The dashboard was built using Tableu. Link to Tableau Public: https://public.tableau.com/app/profile/nikita.tkachenko/viz/FinalProject_16074297642720/
+
+
 
 You can use the [editor on GitHub](https://github.com/nikitoshina/Tableu-BasketBall/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
